@@ -1,0 +1,2 @@
+# ngxformatter
+nginx conf formatter
